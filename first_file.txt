@@ -2,3 +2,5 @@ my first file
 remote version
 
 local version
+
+main edition
