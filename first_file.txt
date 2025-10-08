@@ -3,4 +3,5 @@ remote version
 
 local version
 
+branch edition
 main edition
